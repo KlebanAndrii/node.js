@@ -1,0 +1,28 @@
+// const var42 = 42;
+//
+// function createUser(name, email) {
+//     return {
+//         name,
+//         email
+//     }
+// }
+//
+//
+// // module.exports = createUser;
+//
+// module.exports = {
+//     var42,
+//     createUser,
+//     myFunc: () => {
+//         console.log('hello world from file.js')
+//     }
+// }
+
+
+
+// console.log('_________FILE____________')
+// console.log(__filename)
+// console.log(__dirname)
+// console.log('_________FILE____________')
+
+// // **********************************************************************************************************
